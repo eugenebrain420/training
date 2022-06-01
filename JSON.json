@@ -1,0 +1,13 @@
+{	
+"Info":{	
+	"name" : "eugene",
+	"age" : 29,
+	"Gender" : "M"
+	}
+},
+{"Address":{
+	"FullAddress": "Rus, Kostroma, mkn Davydovsky-3, 18, 36",
+	"Country": "Rus",
+	"City" : "Kostroma"
+	}
+}
